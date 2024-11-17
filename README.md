@@ -16,7 +16,8 @@ Análisis de una encuesta a profesionales de datos realizada por Alex The Analys
 - Edad promedio de los profesionales
 
 ## Visualizaciones
-![Dashboard Principal](ruta-de-tu-imagen.png)
+![Dashboard Principal](![Data Professional Survey Breakdown](https://github.com/user-attachments/assets/0d76d22e-f87b-4ff5-9d61-7e332628367c)
+)
 
 ## Insights Principales
 1. Distribución salarial por rol
@@ -31,9 +32,9 @@ Análisis de una encuesta a profesionales de datos realizada por Alex The Analys
 4. Extracción de insights
 
 ## Archivos en el Repositorio
-- `data_professional_survey.pbix`: Dashboard de Power BI
-- `dataset.xlsx`: Conjunto de datos utilizado
-- `screenshots/`: Carpeta con capturas del dashboard
+- `[Uploading Projects.pbix`: Dashboard de Power BI
+- `[Power BI - Final Project (1).xlsx](https://github.com/user-attachments/files/17792819/Power.BI.-.Final.Project.1.xlsx)`: Conjunto de datos utilizado
+- `![Data Professional Survey Breakdown](https://github.com/user-attachments/assets/83ab6d3e-f7c0-49fb-8d1a-f5a30f4c42b5)`: Carpeta con capturas del dashboard
 
 ## Cómo Usar
 1. Descarga el archivo .pbix
@@ -42,4 +43,4 @@ Análisis de una encuesta a profesionales de datos realizada por Alex The Analys
 
 ## Autor
 Kerly Enriquez
-https://www.linkedin.com/in/kerly-enriquez/![Data Professional Survey Breakdown](https://github.com/user-attachments/assets/efb34da1-0f3e-445e-bbb0-33b16bb18039)
+https://www.linkedin.com/in/kerly-enriquez/
